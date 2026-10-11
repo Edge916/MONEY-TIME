@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-10-10",
+  "currency": "USD",
+  "out_of_pocket_budget_first_60_days": 0,
+  "setup_price": 249,
+  "care_price": 49,
+  "card_rate": 0.029,
+  "card_fixed": 0.3,
+  "billing_rate": 0.007,
+  "refund_reserve_rate": 0.05,
+  "care_operating_cost_per_customer": 0,
+  "fixed_operating_cost_per_month": 0,
+  "care_minutes_per_customer": 20,
+  "owner_hour_value": 25,
+  "sales_admin_hours_per_month": 4,
+  "template_price": 19,
+  "gumroad_platform_rate": 0.1,
+  "gumroad_platform_fixed": 0.5,
+  "software_price": 15,
+  "software_cost_per_customer": 1,
+  "software_fixed_cost_per_month": 10,
+  "targets": [200, 500]
+}
